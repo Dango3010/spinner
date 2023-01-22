@@ -24,4 +24,5 @@ setTimeout(() => {
 
 setTimeout(() => {
   process.stdout.write('\r🐤    \n');
-}, 1600);
+}, 1700);
+
